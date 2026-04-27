@@ -1,7 +1,7 @@
 # 👋 Hi, I'm June Vincent A. Fullido
 
 🎓 BS Information Technology Graduate (2025)  
-💻 Aspiring Software Support Specialist | IT Generalist  
+💻 Aspiring Software Support Specialist | IT Generalist  | Junior Database Administrator | Junior Project Manager | Junior Network Engineer
 📍 Cebu, Philippines  
 
 ---
@@ -112,7 +112,7 @@ Currently, I am focused on growing my skills in **software support, system admin
 
 ## 🌱 Currently Learning
 
-- Linux System Administration (RHCSA path)
+- React Framework
 - Docker & DevOps fundamentals
 - Improving SQL and troubleshooting skills
 
